@@ -10,7 +10,7 @@
       "cwd": "${workspaceFolder}",
       "env": {},
       "strictEnv": false,
-      "watchMode": false,
+      "watchMode": true,
       "stopOnEntry": false,
       "noDebug": false,
       "runtime": "bun",
