@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "ms-vsliveshare.vsliveshare",
+    "johnsoncodehk.vscode-typescript-web",
+    "biomejs.biome",
+    "oven.bun-vscode"
+  ]
+}

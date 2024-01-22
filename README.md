@@ -1,4 +1,5 @@
 ```
+npm install -g bun
 bun install
 bun run dev
 ```
